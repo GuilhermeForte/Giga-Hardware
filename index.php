@@ -6,7 +6,7 @@
 <body>
 
 <h1>Giga hardware Solutions</h1>
-<p>Soluçoes de informatica para sua empresa de infraestrutura ate Software.</p>
+<p>Soluçoes de informatica para sua empresa de infraestrutura ate o Software.</p>
 
 </body>
 </html>
